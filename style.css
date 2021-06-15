@@ -1,0 +1,39 @@
+
+
+div.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.tab-content {
+    background-color: rgb(248,249,250);
+    
+}
+
+.nav-link {
+    /*margin-bottom: 24px;*/
+    color: grey;
+}
+
+.nav-link:hover {
+    /*margin-bottom: 24px;*/
+    color: white;
+    background-color: rgb(94, 92, 92)
+}
+
+.navbar-brand {
+    font-family: 'Oleo Script', cursive;
+    position: relative;
+    left: 15%;
+}
+
+.nav {
+     position: relative;
+    right: 15%;
+}
+
+.nav-item {
+    position: relative;
+    right: -15%;
+}
